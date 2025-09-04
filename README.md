@@ -28,15 +28,15 @@ My main areas of interest and expertise include:
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcandrade&layout=compact&theme=tokyonight"/>
 </div>
 
-## 💻 Tecnologias e Linguagens
+## 💻 Technologies and Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cs,cpp,html,css,js,php)](https://skillicons.dev)
 
-🚀 **Frameworks e bibliotecas**
+🚀 **Frameworks and Libraries**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,spring)](https://skillicons.dev)
 
-🛠️ **Ferramentas de desenvolvimento**
+🛠️ **Development Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,vscode)](https://skillicons.dev)
 
